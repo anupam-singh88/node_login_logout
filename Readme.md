@@ -1,5 +1,10 @@
 # Login Logout in Node.js
 
+## URL
+https://node-login-logout.onrender.com/login
+
+![image](https://github.com/anupam-singh88/node_login_logout/assets/89381022/03675c4a-895a-435d-94b0-c2d51de1fab5)
+
 ## Description
 This is a login/logout application built with Node.js, Express, and MongoDB. It performs login functionality and saves the JWT token in a cookie upon successful login. The application also includes logout functionality and an API to display all registered users.
 
@@ -25,5 +30,3 @@ This is a login/logout application built with Node.js, Express, and MongoDB. It 
 ## Deployment
 The application is deployed on Render.
 
-## URL
-https://node-login-logout.onrender.com/login
